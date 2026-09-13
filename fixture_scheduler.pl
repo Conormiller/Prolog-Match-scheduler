@@ -1,6 +1,6 @@
 :- use_module(library(clpfd)).
 
-% --- Groups ---
+% --- Groups --- 
 % white space after the team names is weird as it helps with the pretty print later
 group(group1, ['team1  ', 'team2  ', 'team3  ', 'team4  ', 'team5  ']).
 group(group2, ['team6  ', 'team7  ', 'team8  ', 'team9  ', 'team10 ']).
